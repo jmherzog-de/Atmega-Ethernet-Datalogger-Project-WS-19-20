@@ -1,0 +1,6 @@
+<map id="lcd_init" name="lcd_init">
+<area shape="rect" id="node1" title=" " alt="" coords="360,5,423,32"/>
+<area shape="rect" id="node2" href="$startup_view_8h.html#a1a9171e2595ab20c0d50a6b9ba243997" title="Initialization of LCD." alt="" coords="229,5,312,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#af500481703bc1d088d99f0c3390c1c37" title="Hardware port initialization." alt="" coords="104,5,181,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="5,5,56,32"/>
+</map>

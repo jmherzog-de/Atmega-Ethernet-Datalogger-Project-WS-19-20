@@ -1,0 +1,13 @@
+<map id="UART_puts" name="UART_puts">
+<area shape="rect" id="node1" title="Send string." alt="" coords="341,208,429,235"/>
+<area shape="rect" id="node2" href="$message_view_8h.html#ae44e6ef07d32f99dd361b941573f1cba" title="Display user defined message." alt="" coords="163,5,266,32"/>
+<area shape="rect" id="node4" href="$sdcard__debug_8h.html#a48c97a1e60e39658a9b5e01474edccbb" title="Send data buffer over UART." alt="" coords="165,56,265,83"/>
+<area shape="rect" id="node5" href="$sdcard__debug_8h.html#a4ce6a0c2ed4b2d15e4a3dff34731125a" title="Send error token over UART." alt="" coords="136,107,293,133"/>
+<area shape="rect" id="node6" href="$sdcard__debug_8h.html#a8c69533500ef14fd8a094200ff789642" title="Send R1 response over UART." alt="" coords="173,360,256,387"/>
+<area shape="rect" id="node7" href="$sdcard__debug_8h.html#a78b84105bc94c3099167c66b96f257e8" title="Send R3 response over UART." alt="" coords="5,321,88,348"/>
+<area shape="rect" id="node8" href="$sdcard__debug_8h.html#a7f554d5299bf39391121750c9b52b924" title="Send R7 response over UART." alt="" coords="5,397,88,424"/>
+<area shape="rect" id="node9" href="$manconfig_view_8h.html#a0cd63c1cabaa8523acf6ee4e652f90ce" title="Input ip address." alt="" coords="167,157,262,184"/>
+<area shape="rect" id="node10" href="$setup_view_8h.html#a64caece765aec400fe02adc58ecb69ef" title="Setup menu view." alt="" coords="173,208,256,235"/>
+<area shape="rect" id="node11" href="$startup_view_8h.html#af41f7eec1754607d8127d0e5bee58e16" title="Show startscreen." alt="" coords="169,259,260,285"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="21,183,72,209"/>
+</map>

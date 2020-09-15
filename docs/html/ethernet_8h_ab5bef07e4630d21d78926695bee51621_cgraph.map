@@ -1,0 +1,9 @@
+<map id="Ethernet_SendGET_p" name="Ethernet_SendGET_p">
+<area shape="rect" id="node1" title="Send GET request." alt="" coords="5,56,153,83"/>
+<area shape="rect" id="node2" href="$enc28j60_8c.html#a8dcece6d3a763c4435845e89e927e51a" title=" " alt="" coords="201,56,361,83"/>
+<area shape="rect" id="node3" href="$enc28j60_8c.html#ac6c9cbfa6cacb1949692f1ea82d15576" title=" " alt="" coords="410,31,514,57"/>
+<area shape="rect" id="node6" href="$enc28j60_8c.html#a91b234db2c1a946f678b4616c236dd78" title=" " alt="" coords="409,81,515,108"/>
+<area shape="rect" id="node4" href="$enc28j60_8c.html#acee2471817866ee365e276ce8e649595" title=" " alt="" coords="564,5,685,32"/>
+<area shape="rect" id="node5" href="$enc28j60_8c.html#a92310c73dae6ff7ea5f2ad8e1307630f" title=" " alt="" coords="563,56,687,83"/>
+<area shape="rect" id="node7" href="$enc28j60_8c.html#a1929956bb717eff8451245f9fb2e9784" title=" " alt="" coords="563,107,686,133"/>
+</map>

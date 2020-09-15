@@ -1,0 +1,12 @@
+<map id="idleView" name="idleView">
+<area shape="rect" id="node1" title="Display view idle mode." alt="" coords="5,132,76,159"/>
+<area shape="rect" id="node2" href="$gpio_8c.html#a6c3f11c55d6b3ceb8a85aed9aed572a5" title="Set GPIO hardware pin to output." alt="" coords="124,5,289,32"/>
+<area shape="rect" id="node3" href="$gpio_8c.html#a64552008bc7f3318dbd3b415e82464ff" title="Read button state." alt="" coords="131,56,283,83"/>
+<area shape="rect" id="node4" href="$gpio_8c.html#ae800deb8c2a5b302b19f0f24150de1db" title="Set GPIO hardware pin to input." alt="" coords="131,107,282,133"/>
+<area shape="rect" id="node5" href="$lcd__lib_8c.html#a9f97eb7178ac1118c4d7a61a77d928d3" title=" " alt="" coords="337,157,455,184"/>
+<area shape="rect" id="node8" href="$lcd__lib_8c.html#a564c23f4c703e87efbd41cf3f83c665e" title=" " alt="" coords="353,208,439,235"/>
+<area shape="rect" id="node9" href="$lcd__lib_8c.html#a187ae34cb0a53be61e05c088a8687d3d" title=" " alt="" coords="167,259,246,285"/>
+<area shape="rect" id="node6" href="$lcd__lib_8c.html#aefa5c64ec00c0998678eb30924515da7" title=" " alt="" coords="503,208,576,235"/>
+<area shape="rect" id="node7" href="$lcd__lib_8c.html#aca4a9d0155c7c7ec0c5ce4c2f5347847" title=" " alt="" coords="624,208,708,235"/>
+<area shape="rect" id="node10" href="$lcd__lib_8c.html#a8459837500bc2e2e95230c225db35619" title=" " alt="" coords="361,259,431,285"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="sendView.c" name="sendView.c">
+<area shape="rect" id="node1" title="Display view while sending data." alt="" coords="137,5,227,32"/>
+<area shape="rect" id="node2" href="$send_view_8h.html" title=" " alt="" coords="72,80,161,107"/>
+<area shape="rect" id="node3" href="$lcd__lib_8h.html" title=" " alt="" coords="185,80,312,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,155,68,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="92,155,192,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="216,155,281,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="306,155,381,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="405,155,490,181"/>
+</map>

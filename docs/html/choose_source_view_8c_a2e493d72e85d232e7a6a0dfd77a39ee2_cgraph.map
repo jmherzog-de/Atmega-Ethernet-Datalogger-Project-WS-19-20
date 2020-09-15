@@ -1,0 +1,12 @@
+<map id="chooseSourceView" name="chooseSourceView">
+<area shape="rect" id="node1" title="Choose target address or hostname." alt="" coords="5,157,139,184"/>
+<area shape="rect" id="node2" href="$gpio_8c.html#a6c3f11c55d6b3ceb8a85aed9aed572a5" title="Set GPIO hardware pin to output." alt="" coords="187,5,352,32"/>
+<area shape="rect" id="node3" href="$gpio_8c.html#a64552008bc7f3318dbd3b415e82464ff" title="Read button state." alt="" coords="193,56,345,83"/>
+<area shape="rect" id="node4" href="$gpio_8c.html#ae800deb8c2a5b302b19f0f24150de1db" title="Set GPIO hardware pin to input." alt="" coords="194,107,345,133"/>
+<area shape="rect" id="node5" href="$lcd__lib_8c.html#a9f97eb7178ac1118c4d7a61a77d928d3" title=" " alt="" coords="400,157,517,184"/>
+<area shape="rect" id="node8" href="$lcd__lib_8c.html#a564c23f4c703e87efbd41cf3f83c665e" title=" " alt="" coords="416,208,501,235"/>
+<area shape="rect" id="node9" href="$lcd__lib_8c.html#a8459837500bc2e2e95230c225db35619" title=" " alt="" coords="423,259,494,285"/>
+<area shape="rect" id="node10" href="$lcd__lib_8c.html#a187ae34cb0a53be61e05c088a8687d3d" title=" " alt="" coords="230,309,309,336"/>
+<area shape="rect" id="node6" href="$lcd__lib_8c.html#aefa5c64ec00c0998678eb30924515da7" title=" " alt="" coords="565,208,639,235"/>
+<area shape="rect" id="node7" href="$lcd__lib_8c.html#aca4a9d0155c7c7ec0c5ce4c2f5347847" title=" " alt="" coords="687,208,771,235"/>
+</map>

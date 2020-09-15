@@ -1,0 +1,5 @@
+<map id="SPI_init" name="SPI_init">
+<area shape="rect" id="node1" title="SPI initialization." alt="" coords="229,5,296,32"/>
+<area shape="rect" id="node2" href="$main_8c.html#af500481703bc1d088d99f0c3390c1c37" title="Hardware port initialization." alt="" coords="104,5,181,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="5,5,56,32"/>
+</map>

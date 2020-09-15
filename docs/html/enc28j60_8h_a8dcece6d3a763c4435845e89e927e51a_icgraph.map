@@ -1,0 +1,6 @@
+<map id="enc28j60PacketReceive" name="enc28j60PacketReceive">
+<area shape="rect" id="node1" title=" " alt="" coords="300,31,460,57"/>
+<area shape="rect" id="node2" href="$ethernet_8h.html#af0f2d7f10673c5847b210d58c290ec1c" title="DNS lookup function." alt="" coords="105,5,251,32"/>
+<area shape="rect" id="node4" href="$ethernet_8h.html#ab5bef07e4630d21d78926695bee51621" title="Send GET request." alt="" coords="104,56,252,83"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="5,31,56,57"/>
+</map>

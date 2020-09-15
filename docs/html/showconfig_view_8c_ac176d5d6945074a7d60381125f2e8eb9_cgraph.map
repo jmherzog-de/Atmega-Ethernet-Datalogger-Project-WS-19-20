@@ -1,0 +1,13 @@
+<map id="showconfigView" name="showconfigView">
+<area shape="rect" id="node1" title="Show configuration parameters." alt="" coords="5,81,120,108"/>
+<area shape="rect" id="node2" href="$delay_8c.html#aef5e9f964771b593f34c210dc3571b39" title="Free configurable delay function in 10ms steps." alt="" coords="168,5,288,32"/>
+<area shape="rect" id="node3" href="$showconfig_view_8c.html#aa1d5b441cd44fc15d03631d154fdd247" title="Show hostname." alt="" coords="173,56,283,83"/>
+<area shape="rect" id="node10" href="$showconfig_view_8c.html#a9ad9f421dac1ba1f42363622a408253d" title="Show ip address." alt="" coords="196,107,260,133"/>
+<area shape="rect" id="node11" href="$showconfig_view_8c.html#af073bf04788bb0a619a7366aecf5d110" title="Show port or interval on the lcd." alt="" coords="170,157,286,184"/>
+<area shape="rect" id="node4" href="$lcd__lib_8c.html#a9f97eb7178ac1118c4d7a61a77d928d3" title=" " alt="" coords="336,132,453,159"/>
+<area shape="rect" id="node7" href="$lcd__lib_8c.html#a564c23f4c703e87efbd41cf3f83c665e" title=" " alt="" coords="352,183,437,209"/>
+<area shape="rect" id="node8" href="$lcd__lib_8c.html#a8459837500bc2e2e95230c225db35619" title=" " alt="" coords="501,81,572,108"/>
+<area shape="rect" id="node9" href="$lcd__lib_8c.html#a187ae34cb0a53be61e05c088a8687d3d" title=" " alt="" coords="355,31,434,57"/>
+<area shape="rect" id="node5" href="$lcd__lib_8c.html#aefa5c64ec00c0998678eb30924515da7" title=" " alt="" coords="620,132,693,159"/>
+<area shape="rect" id="node6" href="$lcd__lib_8c.html#aca4a9d0155c7c7ec0c5ce4c2f5347847" title=" " alt="" coords="741,132,825,159"/>
+</map>

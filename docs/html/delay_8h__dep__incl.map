@@ -1,0 +1,11 @@
+<map id="delay.h" name="delay.h">
+<area shape="rect" id="node1" title=" " alt="" coords="480,5,544,32"/>
+<area shape="rect" id="node2" href="$delay_8c.html" title="Delay library." alt="" coords="5,80,69,107"/>
+<area shape="rect" id="node3" href="$run_routine_8c.html" title="Datalogger countdown routine." alt="" coords="94,80,189,107"/>
+<area shape="rect" id="node4" href="$choose_source_view_8c.html" title="Display view to choose target server configuration." alt="" coords="213,80,357,107"/>
+<area shape="rect" id="node5" href="$manconfig_view_8c.html" title="Display view for manual configuration mode." alt="" coords="381,80,501,107"/>
+<area shape="rect" id="node6" href="$message_view_8c.html" title="Display view for messages." alt="" coords="525,80,640,107"/>
+<area shape="rect" id="node7" href="$showconfig_view_8c.html" title="Show datalogger parameter." alt="" coords="664,80,789,107"/>
+<area shape="rect" id="node8" href="$show_network_config_8c.html" title="Show network parameters of setup." alt="" coords="813,80,960,107"/>
+<area shape="rect" id="node9" href="$startup_view_8c.html" title="Startscreen." alt="" coords="984,80,1085,107"/>
+</map>

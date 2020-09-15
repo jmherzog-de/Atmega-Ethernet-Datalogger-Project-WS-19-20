@@ -1,0 +1,13 @@
+<map id="SDInit" name="SDInit">
+<area shape="rect" id="node1" title="SDcard initialization." alt="" coords="5,182,63,209"/>
+<area shape="rect" id="node2" href="$sdcard_8c.html#af03f7ee4e40ff053b6dfd8b9e821248b" title="Set SDcard to idle state." alt="" coords="270,67,378,94"/>
+<area shape="rect" id="node6" href="$sdcard_8c.html#a80e7493f60aabadc9022e6c0aca80850" title="Start initialization sequence." alt="" coords="431,422,581,449"/>
+<area shape="rect" id="node7" href="$sdcard_8c.html#a4a32a6e47d9f9bd2c84d6cd0c04ba64a" title="Read Operation Conditions Register (OCR) CMD58." alt="" coords="115,207,213,234"/>
+<area shape="rect" id="node9" href="$sdcard_8c.html#af515c90a15e2d8d663537120e1d27e50" title="First Sending Command." alt="" coords="277,17,371,43"/>
+<area shape="rect" id="node10" href="$sdcard_8c.html#a25c915ce44b0f9e6434ea408ac6c1759" title="Send Interface Condition Command (CMD8)" alt="" coords="111,283,217,310"/>
+<area shape="rect" id="node11" href="$sdcard_8c.html#abdfa2111d3874aa8f721d3c5f7c132ee" title="Send Operating Condition Command (ACMD41)" alt="" coords="265,118,383,145"/>
+<area shape="rect" id="node3" href="$sdcard_8c.html#aa4fe00f5b5970292cf53a4a6c9b32310" title="Send command to SDcard." alt="" coords="457,169,555,195"/>
+<area shape="rect" id="node4" href="$spi_8c.html#a2f6dd9706527668a1002229193580372" title="Send/receive messages." alt="" coords="629,169,748,195"/>
+<area shape="rect" id="node5" href="$sdcard_8c.html#a1fa518d1b1d7b4052e5b0018d1cc2c14" title="Read R1 message." alt="" coords="463,67,549,94"/>
+<area shape="rect" id="node8" href="$sdcard_8c.html#adf802748634393b9afd37c60c1e90dab" title="Read response format R7." alt="" coords="281,270,367,297"/>
+</map>

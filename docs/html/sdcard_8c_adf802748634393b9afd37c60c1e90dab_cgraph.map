@@ -1,0 +1,5 @@
+<map id="SDReadR7" name="SDReadR7">
+<area shape="rect" id="node1" title="Read response format R7." alt="" coords="5,31,92,57"/>
+<area shape="rect" id="node2" href="$sdcard_8c.html#a1fa518d1b1d7b4052e5b0018d1cc2c14" title="Read R1 message." alt="" coords="140,5,227,32"/>
+<area shape="rect" id="node3" href="$spi_8c.html#a2f6dd9706527668a1002229193580372" title="Send/receive messages." alt="" coords="275,31,393,57"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="readFile" name="readFile">
+<area shape="rect" id="node1" title="Read file." alt="" coords="5,56,73,83"/>
+<area shape="rect" id="node2" href="$fat32_8c.html#a1810830a1ef993474078504f0c79682a" title="file name to FAT32" alt="" coords="121,5,240,32"/>
+<area shape="rect" id="node3" href="$fat32_8c.html#a4187eb322bbcf4781a90442b438e88d5" title="Calculate sector of the cluster number." alt="" coords="129,56,233,83"/>
+<area shape="rect" id="node4" href="$sdcard_8c.html#adb000ca004cd3908dcc5be27a7af06c0" title="Read Single Block (CMD17)" alt="" coords="129,107,232,133"/>
+<area shape="rect" id="node5" href="$sdcard_8c.html#aa4fe00f5b5970292cf53a4a6c9b32310" title="Send command to SDcard." alt="" coords="288,56,387,83"/>
+<area shape="rect" id="node6" href="$spi_8c.html#a2f6dd9706527668a1002229193580372" title="Send/receive messages." alt="" coords="435,107,553,133"/>
+<area shape="rect" id="node7" href="$sdcard_8c.html#a1fa518d1b1d7b4052e5b0018d1cc2c14" title="Read R1 message." alt="" coords="294,157,381,184"/>
+</map>

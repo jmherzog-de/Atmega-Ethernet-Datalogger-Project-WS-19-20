@@ -1,0 +1,15 @@
+<map id="lcd_lib.h" name="lcd_lib.h">
+<area shape="rect" id="node1" title=" " alt="" coords="687,5,757,32"/>
+<area shape="rect" id="node2" href="$lcd__lib_8c.html" title=" " alt="" coords="5,80,76,107"/>
+<area shape="rect" id="node3" href="$main_8c.html" title="Entry point and state machine implementation." alt="" coords="101,80,162,107"/>
+<area shape="rect" id="node4" href="$choose_source_view_8c.html" title="Display view to choose target server configuration." alt="" coords="186,80,330,107"/>
+<area shape="rect" id="node5" href="$idle_view_8c.html" title="Display view for idle mode." alt="" coords="355,80,436,107"/>
+<area shape="rect" id="node6" href="$manconfig_view_8c.html" title="Display view for manual configuration mode." alt="" coords="461,80,581,107"/>
+<area shape="rect" id="node7" href="$message_view_8c.html" title="Display view for messages." alt="" coords="605,80,719,107"/>
+<area shape="rect" id="node8" href="$run_view_8c.html" title="Display view datalogger active." alt="" coords="744,80,823,107"/>
+<area shape="rect" id="node9" href="$send_view_8c.html" title="Display view while sending data." alt="" coords="847,80,936,107"/>
+<area shape="rect" id="node10" href="$setup_view_8c.html" title="Show configuration menu." alt="" coords="961,80,1054,107"/>
+<area shape="rect" id="node11" href="$showconfig_view_8c.html" title="Show datalogger parameter." alt="" coords="1078,80,1203,107"/>
+<area shape="rect" id="node12" href="$show_network_config_8c.html" title="Show network parameters of setup." alt="" coords="1227,80,1374,107"/>
+<area shape="rect" id="node13" href="$startup_view_8c.html" title="Startscreen." alt="" coords="1398,80,1499,107"/>
+</map>

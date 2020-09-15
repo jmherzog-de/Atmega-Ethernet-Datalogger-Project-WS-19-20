@@ -1,0 +1,4 @@
+<map id="SDCommand" name="SDCommand">
+<area shape="rect" id="node1" title="Send command to SDcard." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$spi_8c.html#a2f6dd9706527668a1002229193580372" title="Send/receive messages." alt="" coords="152,5,271,32"/>
+</map>

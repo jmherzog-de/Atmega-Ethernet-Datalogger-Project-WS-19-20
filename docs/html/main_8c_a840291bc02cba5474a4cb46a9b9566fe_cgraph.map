@@ -1,0 +1,52 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main loop." alt="" coords="5,917,56,944"/>
+<area shape="rect" id="node2" href="$autoconfig_routine_8c.html#a49a747a4c6c741cb62d404d6a54e921b" title="Automatic configuration routine." alt="" coords="136,183,263,209"/>
+<area shape="rect" id="node11" href="$choose_source_view_8c.html#a2e493d72e85d232e7a6a0dfd77a39ee2" title="Choose target address or hostname." alt="" coords="356,563,489,589"/>
+<area shape="rect" id="node19" href="$ethernet_8c.html#af0f2d7f10673c5847b210d58c290ec1c" title="DNS lookup function." alt="" coords="126,1095,273,1121"/>
+<area shape="rect" id="node21" href="$ethernet_8c.html#ac071c945abb890889087042beff27653" title="DHCP initialization." alt="" coords="134,1196,265,1223"/>
+<area shape="rect" id="node23" href="$ethernet_8c.html#a27319287775478ffac8bd865991044da" title="Manual network configuration." alt="" coords="135,1145,264,1172"/>
+<area shape="rect" id="node24" href="$ethernet_8c.html#ad39825fbc71388ba8c41939fd756f1b9" title="Read network parameter." alt="" coords="104,1247,295,1273"/>
+<area shape="rect" id="node25" href="$ethernet_8c.html#ab5bef07e4630d21d78926695bee51621" title="Send GET request." alt="" coords="125,1044,273,1071"/>
+<area shape="rect" id="node26" href="$idle_view_8c.html#a0521d014113b10ff3b32649bf36544ed" title="Display view idle mode." alt="" coords="387,512,458,539"/>
+<area shape="rect" id="node27" href="$main_8c.html#af500481703bc1d088d99f0c3390c1c37" title="Hardware port initialization." alt="" coords="161,1500,238,1527"/>
+<area shape="rect" id="node32" href="$measure_routine_8c.html#a72ec9f6d5609c870a17b50bce8639f12" title="Measurement routines." alt="" coords="141,1551,257,1577"/>
+<area shape="rect" id="node34" href="$message_view_8c.html#ae44e6ef07d32f99dd361b941573f1cba" title="Display user defined message." alt="" coords="371,917,474,944"/>
+<area shape="rect" id="node38" href="$run_view_8c.html#a25b9c8e226d064f82c95fec7e8ade147" title="Datalogger run view." alt="" coords="389,613,457,640"/>
+<area shape="rect" id="node39" href="$manconfig_view_8c.html#a47f5840d06328f83a364d0c1bc2a4527" title="Input interval." alt="" coords="138,867,261,893"/>
+<area shape="rect" id="node41" href="$manconfig_view_8c.html#a0cd63c1cabaa8523acf6ee4e652f90ce" title="Input ip address." alt="" coords="375,411,470,437"/>
+<area shape="rect" id="node43" href="$manconfig_view_8c.html#a5c91f2b057837f994fbcbbdb2e4fbfe3" title="Input port." alt="" coords="146,791,253,817"/>
+<area shape="rect" id="node44" href="$setup_view_8c.html#a64caece765aec400fe02adc58ecb69ef" title="Setup menu view." alt="" coords="381,461,464,488"/>
+<area shape="rect" id="node45" href="$showconfig_view_8c.html#ac176d5d6945074a7d60381125f2e8eb9" title="Show configuration parameters." alt="" coords="142,993,257,1020"/>
+<area shape="rect" id="node49" href="$show_network_config_8c.html#a6256bd0b134f5782b4394cf13f01afb9" title="Display network configuration of the datalogger." alt="" coords="132,1601,267,1628"/>
+<area shape="rect" id="node50" href="$startup_view_8c.html#af41f7eec1754607d8127d0e5bee58e16" title="Show startscreen." alt="" coords="377,664,468,691"/>
+<area shape="rect" id="node3" href="$autoconfig_routine_8c.html#a46abf4eb1ddca473e7bba877cea4d2a1" title="Extract hostname from input string." alt="" coords="362,208,483,235"/>
+<area shape="rect" id="node4" href="$autoconfig_routine_8c.html#a7790c78ac479d1ec5e96cdfc59ce4549" title="Extract interval from input string." alt="" coords="371,259,474,285"/>
+<area shape="rect" id="node5" href="$autoconfig_routine_8c.html#a9aed084b0d753d7acaa0d7726bd4e245" title="Extract ip from input string." alt="" coords="361,309,484,336"/>
+<area shape="rect" id="node6" href="$autoconfig_routine_8c.html#a91571416b2e45f7df94d4c8ee5271d6d" title="Extract port from input string." alt="" coords="379,5,466,32"/>
+<area shape="rect" id="node7" href="$fat32_8c.html#a1f4251fa9ffd0d22524fb6623779ea62" title="Read SDcard boot sector." alt="" coords="357,56,489,83"/>
+<area shape="rect" id="node9" href="$fat32_8c.html#aec83b878d49ef5976f2175867cdc2d82" title="Read file." alt="" coords="389,107,457,133"/>
+<area shape="rect" id="node10" href="$sdcard_8c.html#ae5e392218b111cecf26dc227935e3f79" title="SDcard initialization." alt="" coords="394,157,451,184"/>
+<area shape="rect" id="node8" href="$sdcard_8c.html#adb000ca004cd3908dcc5be27a7af06c0" title="Read Single Block (CMD17)" alt="" coords="582,81,685,108"/>
+<area shape="rect" id="node12" href="$gpio_8c.html#a6c3f11c55d6b3ceb8a85aed9aed572a5" title="Set GPIO hardware pin to output." alt="" coords="551,487,716,513"/>
+<area shape="rect" id="node13" href="$gpio_8c.html#a64552008bc7f3318dbd3b415e82464ff" title="Read button state." alt="" coords="557,436,709,463"/>
+<area shape="rect" id="node14" href="$gpio_8c.html#ae800deb8c2a5b302b19f0f24150de1db" title="Set GPIO hardware pin to input." alt="" coords="558,537,709,564"/>
+<area shape="rect" id="node15" href="$lcd__lib_8c.html#a9f97eb7178ac1118c4d7a61a77d928d3" title=" " alt="" coords="575,917,692,944"/>
+<area shape="rect" id="node16" href="$lcd__lib_8c.html#a564c23f4c703e87efbd41cf3f83c665e" title=" " alt="" coords="591,740,676,767"/>
+<area shape="rect" id="node17" href="$lcd__lib_8c.html#a8459837500bc2e2e95230c225db35619" title=" " alt="" coords="773,740,843,767"/>
+<area shape="rect" id="node18" href="$lcd__lib_8c.html#a187ae34cb0a53be61e05c088a8687d3d" title=" " alt="" coords="594,791,673,817"/>
+<area shape="rect" id="node20" href="$enc28j60_8c.html#a8dcece6d3a763c4435845e89e927e51a" title=" " alt="" coords="343,1373,503,1400"/>
+<area shape="rect" id="node22" href="$enc28j60_8c.html#a9de5291941ee905274f79bf946dce522" title=" " alt="" coords="377,1424,468,1451"/>
+<area shape="rect" id="node28" href="$adc_8c.html#a5137b551f1b83b0f4d8df7d071a3d3a6" title="ADC hardware initialization." alt="" coords="386,1576,459,1603"/>
+<area shape="rect" id="node29" href="$startup_view_8c.html#a1a9171e2595ab20c0d50a6b9ba243997" title="Initialization of LCD." alt="" coords="381,1627,464,1653"/>
+<area shape="rect" id="node30" href="$spi_8c.html#a9c9bb330f595b394b823e409ea6ca35a" title="SPI initialization." alt="" coords="389,1475,456,1501"/>
+<area shape="rect" id="node31" href="$uart_8c.html#a3536f150405d54e3b3a2257a819d9a51" title="UART initialization." alt="" coords="383,1525,463,1552"/>
+<area shape="rect" id="node33" href="$adc_8c.html#ab0bfe89c06929fe65db2112532cb4047" title="Get analog value." alt="" coords="379,1677,466,1704"/>
+<area shape="rect" id="node35" href="$delay_8c.html#aef5e9f964771b593f34c210dc3571b39" title="Free configurable delay function in 10ms steps." alt="" coords="573,1247,693,1273"/>
+<area shape="rect" id="node36" href="$uart_8c.html#a27087b9a5c82355d1201473c2a7dc644" title="Send string." alt="" coords="589,588,677,615"/>
+<area shape="rect" id="node37" href="$uart_8c.html#a003d2aae179c4848f5dbde3164e1c005" title="Send ASCII character." alt="" coords="764,411,852,437"/>
+<area shape="rect" id="node40" href="$manconfig_view_8c.html#aeb9d8b807f73fd3252bb32b6a9ed8d80" title="Port/interval input." alt="" coords="351,360,494,387"/>
+<area shape="rect" id="node42" href="$uart_8c.html#abfd8db6229faa23505c5b047b62fe88e" title="Send 16&#45;bit hex value." alt="" coords="575,335,691,361"/>
+<area shape="rect" id="node46" href="$showconfig_view_8c.html#aa1d5b441cd44fc15d03631d154fdd247" title="Show hostname." alt="" coords="367,1019,478,1045"/>
+<area shape="rect" id="node47" href="$showconfig_view_8c.html#a9ad9f421dac1ba1f42363622a408253d" title="Show ip address." alt="" coords="391,968,455,995"/>
+<area shape="rect" id="node48" href="$showconfig_view_8c.html#af073bf04788bb0a619a7366aecf5d110" title="Show port or interval on the lcd." alt="" coords="365,1069,481,1096"/>
+</map>

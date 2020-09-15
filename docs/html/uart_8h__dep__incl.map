@@ -1,0 +1,11 @@
+<map id="uart.h" name="uart.h">
+<area shape="rect" id="node1" title=" " alt="" coords="274,5,329,32"/>
+<area shape="rect" id="node2" href="$sdcard_8c.html" title="Access to SDcard." alt="" coords="5,155,77,181"/>
+<area shape="rect" id="node3" href="$sdcard__debug_8c.html" title="Debug functions for sdcard." alt="" coords="119,155,233,181"/>
+<area shape="rect" id="node4" href="$sdcard__debug_8h.html" title=" " alt="" coords="43,80,157,107"/>
+<area shape="rect" id="node5" href="$uart_8c.html" title="UART library." alt="" coords="233,80,287,107"/>
+<area shape="rect" id="node6" href="$main_8c.html" title="Entry point and state machine implementation." alt="" coords="312,80,373,107"/>
+<area shape="rect" id="node7" href="$choose_source_view_8c.html" title="Display view to choose target server configuration." alt="" coords="397,80,541,107"/>
+<area shape="rect" id="node8" href="$manconfig_view_8c.html" title="Display view for manual configuration mode." alt="" coords="565,80,685,107"/>
+<area shape="rect" id="node9" href="$message_view_8c.html" title="Display view for messages." alt="" coords="709,80,824,107"/>
+</map>

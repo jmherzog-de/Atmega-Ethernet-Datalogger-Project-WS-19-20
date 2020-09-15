@@ -1,0 +1,16 @@
+<map id="idleView.c" name="idleView.c">
+<area shape="rect" id="node1" title="Display view for idle mode." alt="" coords="329,5,410,32"/>
+<area shape="rect" id="node2" href="$idle_view_8h.html" title=" " alt="" coords="154,80,235,107"/>
+<area shape="rect" id="node4" href="$ioconfig_8h.html" title=" " alt="" coords="287,155,377,181"/>
+<area shape="rect" id="node12" href="$gpio_8h.html" title=" " alt="" coords="259,80,381,107"/>
+<area shape="rect" id="node13" href="$lcd__lib_8h.html" title=" " alt="" coords="457,80,583,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="188,155,263,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="641,229,703,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="407,229,492,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="517,229,617,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,229,67,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="91,229,155,256"/>
+<area shape="rect" id="node10" title=" " alt="" coords="179,229,245,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="269,229,382,256"/>
+<area shape="rect" id="node14" title=" " alt="" coords="558,155,623,181"/>
+</map>

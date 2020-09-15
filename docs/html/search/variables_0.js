@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['_5fappendfilelocation_1005',['_appendFileLocation',['../fat32_8h.html#a5703c988e81556917e4a1c225177b5af',1,'fat32.h']]],
+  ['_5fappendfilesector_1006',['_appendFileSector',['../fat32_8h.html#afc93fabecac93c56083c5ae6bec58a9c',1,'fat32.h']]],
+  ['_5fappendstartcluster_1007',['_appendStartCluster',['../fat32_8h.html#a3661b4481c1a687ad445126bd9d57d5f',1,'fat32.h']]],
+  ['_5fbytespersector_1008',['_bytesPerSector',['../fat32_8h.html#a8b5de034d98ba477868604f08426e162',1,'fat32.h']]],
+  ['_5ffileposition_1009',['_filePosition',['../fat32_8h.html#a49f13f77216419b0500331ad44ae2590',1,'fat32.h']]],
+  ['_5ffilesize_1010',['_fileSize',['../fat32_8h.html#a1d989f34836d79adcd7c7e4eedf41c78',1,'fat32.h']]],
+  ['_5ffilestartcluster_1011',['_fileStartCluster',['../fat32_8h.html#a862d67afb9d6297fabc54e70abaf70f8',1,'fat32.h']]],
+  ['_5ffirstdatasector_1012',['_firstDataSector',['../fat32_8h.html#a737b4d564da21fa2a713ef3a06500e30',1,'fat32.h']]],
+  ['_5ffreeclustercountupdated_1013',['_freeClusterCountUpdated',['../fat32_8h.html#a3994df80464e9f217a9da0258411fb71',1,'fat32.h']]],
+  ['_5flongentrystring_1014',['_longEntryString',['../fat32_8h.html#a1c63620bf4f4ecf32c507aaf021d722a',1,'fat32.h']]],
+  ['_5freservedsectorcount_1015',['_reservedSectorCount',['../fat32_8h.html#a3e2069812429f88736b01c73d004f7f5',1,'fat32.h']]],
+  ['_5frootcluster_1016',['_rootCluster',['../fat32_8h.html#af772847212917e688e8bb5db6f7b8b54',1,'fat32.h']]],
+  ['_5fsdbuffer_1017',['_SDBuffer',['../sdcard_8h.html#a7f69ffee2cc0447aed6b2762811258ce',1,'sdcard.h']]],
+  ['_5fsectorpercluster_1018',['_sectorPerCluster',['../fat32_8h.html#a9af33b103e67633db9f32c903ed65306',1,'fat32.h']]],
+  ['_5ftotalclusters_1019',['_totalClusters',['../fat32_8h.html#a5e36477af44f9052e07746c5f352b056',1,'fat32.h']]],
+  ['_5funusedsectors_1020',['_unusedSectors',['../fat32_8h.html#a923dd95b630308cf0bcade93a2c0b853',1,'fat32.h']]]
+];

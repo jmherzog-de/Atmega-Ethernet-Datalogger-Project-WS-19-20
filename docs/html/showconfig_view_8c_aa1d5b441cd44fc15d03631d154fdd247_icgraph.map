@@ -1,0 +1,5 @@
+<map id="showHostname" name="showHostname">
+<area shape="rect" id="node1" title="Show hostname." alt="" coords="267,5,377,32"/>
+<area shape="rect" id="node2" href="$showconfig_view_8h.html#ac176d5d6945074a7d60381125f2e8eb9" title="Show configuration parameters." alt="" coords="104,5,219,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="5,5,56,32"/>
+</map>

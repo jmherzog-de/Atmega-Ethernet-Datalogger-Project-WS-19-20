@@ -1,0 +1,18 @@
+<map id="chooseSourceView.c" name="chooseSourceView.c">
+<area shape="rect" id="node1" title="Display view to choose target server configuration." alt="" coords="397,5,541,32"/>
+<area shape="rect" id="node2" href="$choose_source_view_8h.html" title=" " alt="" coords="157,80,301,107"/>
+<area shape="rect" id="node4" href="$ioconfig_8h.html" title=" " alt="" coords="477,155,567,181"/>
+<area shape="rect" id="node12" href="$gpio_8h.html" title=" " alt="" coords="484,80,605,107"/>
+<area shape="rect" id="node14" href="$lcd__lib_8h.html" title=" " alt="" coords="5,80,132,107"/>
+<area shape="rect" id="node15" href="$uart_8h.html" title=" " alt="" coords="681,80,798,107"/>
+<area shape="rect" id="node16" href="$delay_8h.html" title=" " alt="" coords="325,80,460,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="208,155,273,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="304,229,367,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="30,229,115,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="167,229,267,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="714,229,775,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="398,229,462,256"/>
+<area shape="rect" id="node10" title=" " alt="" coords="487,229,552,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="576,229,689,256"/>
+<area shape="rect" id="node13" title=" " alt="" coords="355,155,430,181"/>
+</map>

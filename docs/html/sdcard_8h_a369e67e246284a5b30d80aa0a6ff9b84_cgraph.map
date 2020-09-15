@@ -1,0 +1,7 @@
+<map id="SDReadOCR" name="SDReadOCR">
+<area shape="rect" id="node1" title="Read Operation Conditions Register (OCR) CMD58." alt="" coords="5,56,104,83"/>
+<area shape="rect" id="node2" href="$sdcard_8c.html#aa4fe00f5b5970292cf53a4a6c9b32310" title="Send command to SDcard." alt="" coords="287,5,385,32"/>
+<area shape="rect" id="node3" href="$spi_8c.html#a2f6dd9706527668a1002229193580372" title="Send/receive messages." alt="" coords="433,81,552,108"/>
+<area shape="rect" id="node4" href="$sdcard_8c.html#adf802748634393b9afd37c60c1e90dab" title="Read response format R7." alt="" coords="152,107,239,133"/>
+<area shape="rect" id="node5" href="$sdcard_8c.html#a1fa518d1b1d7b4052e5b0018d1cc2c14" title="Read R1 message." alt="" coords="293,157,379,184"/>
+</map>

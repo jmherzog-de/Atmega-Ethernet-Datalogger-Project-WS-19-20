@@ -1,0 +1,6 @@
+<map id="SDPrintR3" name="SDPrintR3">
+<area shape="rect" id="node1" title="Send R3 response over UART." alt="" coords="5,31,88,57"/>
+<area shape="rect" id="node2" href="$sdcard__debug_8c.html#a1f587e54b10a12a5b53b5e9c1a6d24a8" title="Send R1 response over UART." alt="" coords="136,5,219,32"/>
+<area shape="rect" id="node3" href="$uart_8c.html#a27087b9a5c82355d1201473c2a7dc644" title="Send string." alt="" coords="267,31,355,57"/>
+<area shape="rect" id="node4" href="$uart_8c.html#a003d2aae179c4848f5dbde3164e1c005" title="Send ASCII character." alt="" coords="403,31,491,57"/>
+</map>

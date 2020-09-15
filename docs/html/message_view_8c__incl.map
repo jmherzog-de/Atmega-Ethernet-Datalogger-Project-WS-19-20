@@ -1,0 +1,18 @@
+<map id="messageView.c" name="messageView.c">
+<area shape="rect" id="node1" title="Display view for messages." alt="" coords="458,5,573,32"/>
+<area shape="rect" id="node2" href="$ioconfig_8h.html" title=" " alt="" coords="280,155,369,181"/>
+<area shape="rect" id="node10" href="$gpio_8h.html" title=" " alt="" coords="381,80,503,107"/>
+<area shape="rect" id="node12" href="$lcd__lib_8h.html" title=" " alt="" coords="527,80,653,107"/>
+<area shape="rect" id="node14" href="$uart_8h.html" title=" " alt="" coords="239,80,357,107"/>
+<area shape="rect" id="node15" href="$delay_8h.html" title=" " alt="" coords="817,80,952,107"/>
+<area shape="rect" id="node16" href="$message_view_8h.html" title=" " alt="" coords="678,80,793,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="407,229,469,256"/>
+<area shape="rect" id="node4" title=" " alt="" coords="494,229,579,256"/>
+<area shape="rect" id="node5" title=" " alt="" coords="604,229,704,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="143,229,205,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="229,229,293,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="317,229,383,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5,229,119,256"/>
+<area shape="rect" id="node11" title=" " alt="" coords="679,155,754,181"/>
+<area shape="rect" id="node13" title=" " alt="" coords="824,155,889,181"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SDReadR7" name="SDReadR7">
+<area shape="rect" id="node1" title="Read response format R7." alt="" coords="539,31,625,57"/>
+<area shape="rect" id="node2" href="$sdcard_8h.html#a369e67e246284a5b30d80aa0a6ff9b84" title="Read Operation Conditions Register (OCR) CMD58." alt="" coords="388,5,487,32"/>
+<area shape="rect" id="node6" href="$sdcard_8h.html#acf65b52cf2c083550241bf10fcc864ca" title="Send Interface Condition Command (CMD8)" alt="" coords="384,56,491,83"/>
+<area shape="rect" id="node3" href="$sdcard_8h.html#ae5e392218b111cecf26dc227935e3f79" title="SDcard initialization." alt="" coords="279,31,336,57"/>
+<area shape="rect" id="node4" href="$autoconfig_routine_8h.html#a49a747a4c6c741cb62d404d6a54e921b" title="Automatic configuration routine." alt="" coords="104,31,231,57"/>
+<area shape="rect" id="node5" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="5,31,56,57"/>
+</map>

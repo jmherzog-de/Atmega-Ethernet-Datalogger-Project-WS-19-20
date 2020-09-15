@@ -1,0 +1,5 @@
+<map id="SDPrintDataErrorToken" name="SDPrintDataErrorToken">
+<area shape="rect" id="node1" title="Send error token over UART." alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node2" href="$uart_8c.html#a27087b9a5c82355d1201473c2a7dc644" title="Send string." alt="" coords="211,5,299,32"/>
+<area shape="rect" id="node3" href="$uart_8c.html#a003d2aae179c4848f5dbde3164e1c005" title="Send ASCII character." alt="" coords="347,5,435,32"/>
+</map>

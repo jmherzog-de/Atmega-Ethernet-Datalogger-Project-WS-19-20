@@ -1,0 +1,5 @@
+<map id="measureRoutine.h" name="measureRoutine.h">
+<area shape="rect" id="node1" title=" " alt="" coords="31,5,158,32"/>
+<area shape="rect" id="node2" href="$main_8c.html" title="Entry point and state machine implementation." alt="" coords="5,80,67,107"/>
+<area shape="rect" id="node3" href="$measure_routine_8c.html" title="Analog sensor measurement routine." alt="" coords="91,80,218,107"/>
+</map>

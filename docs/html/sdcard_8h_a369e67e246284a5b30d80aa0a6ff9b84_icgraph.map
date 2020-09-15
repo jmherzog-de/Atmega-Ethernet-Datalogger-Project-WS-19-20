@@ -1,0 +1,6 @@
+<map id="SDReadOCR" name="SDReadOCR">
+<area shape="rect" id="node1" title="Read Operation Conditions Register (OCR) CMD58." alt="" coords="384,5,483,32"/>
+<area shape="rect" id="node2" href="$sdcard_8h.html#ae5e392218b111cecf26dc227935e3f79" title="SDcard initialization." alt="" coords="279,5,336,32"/>
+<area shape="rect" id="node3" href="$autoconfig_routine_8h.html#a49a747a4c6c741cb62d404d6a54e921b" title="Automatic configuration routine." alt="" coords="104,5,231,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="5,5,56,32"/>
+</map>

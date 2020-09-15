@@ -1,0 +1,10 @@
+<map id="init_Ports" name="init_Ports">
+<area shape="rect" id="node1" title="Hardware port initialization." alt="" coords="5,81,83,108"/>
+<area shape="rect" id="node2" href="$adc_8c.html#a5137b551f1b83b0f4d8df7d071a3d3a6" title="ADC hardware initialization." alt="" coords="135,5,209,32"/>
+<area shape="rect" id="node3" href="$startup_view_8c.html#a1a9171e2595ab20c0d50a6b9ba243997" title="Initialization of LCD." alt="" coords="131,56,213,83"/>
+<area shape="rect" id="node7" href="$spi_8c.html#a9c9bb330f595b394b823e409ea6ca35a" title="SPI initialization." alt="" coords="139,107,205,133"/>
+<area shape="rect" id="node8" href="$uart_8c.html#a3536f150405d54e3b3a2257a819d9a51" title="UART initialization." alt="" coords="132,157,212,184"/>
+<area shape="rect" id="node4" href="$lcd__lib_8c.html#a6842775ba83d166f02b8fef8bb63b1e6" title=" " alt="" coords="261,56,324,83"/>
+<area shape="rect" id="node5" href="$lcd__lib_8c.html#aca4a9d0155c7c7ec0c5ce4c2f5347847" title=" " alt="" coords="493,56,577,83"/>
+<area shape="rect" id="node6" href="$lcd__lib_8c.html#aefa5c64ec00c0998678eb30924515da7" title=" " alt="" coords="372,81,445,108"/>
+</map>

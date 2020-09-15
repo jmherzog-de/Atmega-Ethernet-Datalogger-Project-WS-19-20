@@ -1,0 +1,4 @@
+<map id="UART_getc" name="UART_getc">
+<area shape="rect" id="node1" title="Read UART character." alt="" coords="159,5,247,32"/>
+<area shape="rect" id="node2" href="$uart_8h.html#aad8f2920eb2d628d5eca4b8e40318ca8" title="Read UART string." alt="" coords="5,5,111,32"/>
+</map>

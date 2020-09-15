@@ -1,0 +1,5 @@
+<map id="UART_putS16" name="UART_putS16">
+<area shape="rect" id="node1" title="Send 16&#45;bit signed value." alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node2" href="$uart_8c.html#a003d2aae179c4848f5dbde3164e1c005" title="Send ASCII character." alt="" coords="309,5,397,32"/>
+<area shape="rect" id="node3" href="$uart_8c.html#a99a3d728e5a6c4aa3fcdc70c5045a457" title="Send 16&#45;bit unsigned value." alt="" coords="157,31,261,57"/>
+</map>

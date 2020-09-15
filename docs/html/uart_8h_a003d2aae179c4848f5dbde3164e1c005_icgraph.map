@@ -1,0 +1,21 @@
+<map id="UART_putc" name="UART_putc">
+<area shape="rect" id="node1" title="Send ASCII character." alt="" coords="631,353,719,380"/>
+<area shape="rect" id="node2" href="$sdcard__debug_8h.html#a48c97a1e60e39658a9b5e01474edccbb" title="Send data buffer over UART." alt="" coords="297,49,397,76"/>
+<area shape="rect" id="node3" href="$manconfig_view_8h.html#a0cd63c1cabaa8523acf6ee4e652f90ce" title="Input ip address." alt="" coords="115,100,209,126"/>
+<area shape="rect" id="node5" href="$uart_8h.html#a3ed3fbcc2387c21eef8cb2aabede9b54" title="Send 8&#45;bit hex value." alt="" coords="473,137,583,164"/>
+<area shape="rect" id="node9" href="$uart_8h.html#a27087b9a5c82355d1201473c2a7dc644" title="Send string." alt="" coords="484,328,572,354"/>
+<area shape="rect" id="node16" href="$uart_8h.html#adbe9b09792ca876b99e604bc997bf645" title="Send 16&#45;bit signed value." alt="" coords="295,606,399,633"/>
+<area shape="rect" id="node17" href="$uart_8h.html#a3c46330996c1fbf74e81132ef0e1f991" title="Send signed 8&#45;bit value." alt="" coords="479,429,577,456"/>
+<area shape="rect" id="node18" href="$uart_8h.html#a99a3d728e5a6c4aa3fcdc70c5045a457" title="Send 16&#45;bit unsigned value." alt="" coords="476,480,580,506"/>
+<area shape="rect" id="node19" href="$uart_8h.html#afc308eb51d589239f48067dac2b1da79" title="Send 8 bit unsigned value." alt="" coords="479,530,577,557"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="5,405,56,432"/>
+<area shape="rect" id="node6" href="$sdcard__debug_8h.html#a7f554d5299bf39391121750c9b52b924" title="Send R7 response over UART." alt="" coords="121,252,203,278"/>
+<area shape="rect" id="node7" href="$uart_8h.html#abfd8db6229faa23505c5b047b62fe88e" title="Send 16&#45;bit hex value." alt="" coords="289,100,405,126"/>
+<area shape="rect" id="node8" href="$uart_8h.html#afcc621e7f42182d7b6e45aa5461b39f0" title="Send 32&#45;bit hex value." alt="" coords="104,150,220,177"/>
+<area shape="rect" id="node10" href="$message_view_8h.html#ae44e6ef07d32f99dd361b941573f1cba" title="Display user defined message." alt="" coords="111,316,213,342"/>
+<area shape="rect" id="node11" href="$sdcard__debug_8h.html#a4ce6a0c2ed4b2d15e4a3dff34731125a" title="Send error token over UART." alt="" coords="268,353,425,380"/>
+<area shape="rect" id="node12" href="$sdcard__debug_8h.html#a8c69533500ef14fd8a094200ff789642" title="Send R1 response over UART." alt="" coords="305,404,388,430"/>
+<area shape="rect" id="node13" href="$sdcard__debug_8h.html#a78b84105bc94c3099167c66b96f257e8" title="Send R3 response over UART." alt="" coords="121,417,203,444"/>
+<area shape="rect" id="node14" href="$setup_view_8h.html#a64caece765aec400fe02adc58ecb69ef" title="Setup menu view." alt="" coords="121,493,203,520"/>
+<area shape="rect" id="node15" href="$startup_view_8h.html#af41f7eec1754607d8127d0e5bee58e16" title="Show startscreen." alt="" coords="301,556,392,582"/>
+</map>

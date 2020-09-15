@@ -1,0 +1,5 @@
+<map id="showconfigView.h" name="showconfigView.h">
+<area shape="rect" id="node1" title=" " alt="" coords="32,5,157,32"/>
+<area shape="rect" id="node2" href="$main_8c.html" title="Entry point and state machine implementation." alt="" coords="5,80,67,107"/>
+<area shape="rect" id="node3" href="$showconfig_view_8c.html" title="Show datalogger parameter." alt="" coords="91,80,216,107"/>
+</map>

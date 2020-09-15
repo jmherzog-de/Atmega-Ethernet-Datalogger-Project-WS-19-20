@@ -1,0 +1,6 @@
+<map id="ADC_Read" name="ADC_Read">
+<area shape="rect" id="node1" title="Get analog value." alt="" coords="268,31,355,57"/>
+<area shape="rect" id="node2" href="$adc_8h.html#a36fd08d3c8b249345c9bab79c671a600" title="Get analog value with oversampling." alt="" coords="109,5,215,32"/>
+<area shape="rect" id="node3" href="$measure_routine_8h.html#a72ec9f6d5609c870a17b50bce8639f12" title="Measurement routines." alt="" coords="104,56,220,83"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="5,56,56,83"/>
+</map>

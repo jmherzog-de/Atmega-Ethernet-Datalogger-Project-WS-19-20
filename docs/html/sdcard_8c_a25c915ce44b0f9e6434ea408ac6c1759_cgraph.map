@@ -1,0 +1,7 @@
+<map id="SDSendIfCond" name="SDSendIfCond">
+<area shape="rect" id="node1" title="Send Interface Condition Command (CMD8)" alt="" coords="5,56,112,83"/>
+<area shape="rect" id="node2" href="$sdcard_8c.html#aa4fe00f5b5970292cf53a4a6c9b32310" title="Send command to SDcard." alt="" coords="295,5,393,32"/>
+<area shape="rect" id="node3" href="$spi_8c.html#a2f6dd9706527668a1002229193580372" title="Send/receive messages." alt="" coords="441,81,560,108"/>
+<area shape="rect" id="node4" href="$sdcard_8c.html#adf802748634393b9afd37c60c1e90dab" title="Read response format R7." alt="" coords="160,107,247,133"/>
+<area shape="rect" id="node5" href="$sdcard_8c.html#a1fa518d1b1d7b4052e5b0018d1cc2c14" title="Read R1 message." alt="" coords="301,157,387,184"/>
+</map>

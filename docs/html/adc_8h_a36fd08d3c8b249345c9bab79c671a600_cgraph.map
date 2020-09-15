@@ -1,0 +1,4 @@
+<map id="ADC_ReadAvg" name="ADC_ReadAvg">
+<area shape="rect" id="node1" title="Get analog value with oversampling." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node2" href="$adc_8c.html#ab0bfe89c06929fe65db2112532cb4047" title="Get analog value." alt="" coords="160,5,247,32"/>
+</map>

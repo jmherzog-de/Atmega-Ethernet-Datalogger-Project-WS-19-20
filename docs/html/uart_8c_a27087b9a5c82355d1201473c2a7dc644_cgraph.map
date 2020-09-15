@@ -1,0 +1,4 @@
+<map id="UART_puts" name="UART_puts">
+<area shape="rect" id="node1" title="Send string." alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node2" href="$uart_8c.html#a003d2aae179c4848f5dbde3164e1c005" title="Send ASCII character." alt="" coords="141,5,229,32"/>
+</map>

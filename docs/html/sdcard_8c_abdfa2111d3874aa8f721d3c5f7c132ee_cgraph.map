@@ -1,0 +1,6 @@
+<map id="SDSendOpCond" name="SDSendOpCond">
+<area shape="rect" id="node1" title="Send Operating Condition Command (ACMD41)" alt="" coords="5,56,123,83"/>
+<area shape="rect" id="node2" href="$sdcard_8c.html#aa4fe00f5b5970292cf53a4a6c9b32310" title="Send command to SDcard." alt="" coords="171,5,269,32"/>
+<area shape="rect" id="node3" href="$spi_8c.html#a2f6dd9706527668a1002229193580372" title="Send/receive messages." alt="" coords="317,56,436,83"/>
+<area shape="rect" id="node4" href="$sdcard_8c.html#a1fa518d1b1d7b4052e5b0018d1cc2c14" title="Read R1 message." alt="" coords="177,107,263,133"/>
+</map>

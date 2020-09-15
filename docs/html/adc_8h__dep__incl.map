@@ -1,0 +1,7 @@
+<map id="adc.h" name="adc.h">
+<area shape="rect" id="node1" title=" " alt="" coords="147,5,201,32"/>
+<area shape="rect" id="node2" href="$adc_8c.html" title="ADC library." alt="" coords="5,80,60,107"/>
+<area shape="rect" id="node3" href="$main_8c.html" title="Entry point and state machine implementation." alt="" coords="85,80,146,107"/>
+<area shape="rect" id="node4" href="$measure_routine_8c.html" title="Analog sensor measurement routine." alt="" coords="171,80,297,107"/>
+<area shape="rect" id="node5" href="$run_view_8c.html" title="Display view datalogger active." alt="" coords="321,80,400,107"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SDPowerUpSequence" name="SDPowerUpSequence">
+<area shape="rect" id="node1" title="Start initialization sequence." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node2" href="$spi_8c.html#a2f6dd9706527668a1002229193580372" title="Send/receive messages." alt="" coords="204,5,323,32"/>
+</map>

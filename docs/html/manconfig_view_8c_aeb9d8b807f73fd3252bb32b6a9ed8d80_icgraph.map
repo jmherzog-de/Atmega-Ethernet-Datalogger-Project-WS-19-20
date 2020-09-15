@@ -1,0 +1,6 @@
+<map id="setupFourCharacters" name="setupFourCharacters">
+<area shape="rect" id="node1" title="Port/interval input." alt="" coords="275,31,417,57"/>
+<area shape="rect" id="node2" href="$manconfig_view_8h.html#a47f5840d06328f83a364d0c1bc2a4527" title="Input interval." alt="" coords="104,5,227,32"/>
+<area shape="rect" id="node4" href="$manconfig_view_8h.html#a5c91f2b057837f994fbcbbdb2e4fbfe3" title="Input port." alt="" coords="112,56,219,83"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="5,31,56,57"/>
+</map>

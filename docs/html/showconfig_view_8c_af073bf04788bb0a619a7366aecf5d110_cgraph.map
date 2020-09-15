@@ -1,0 +1,9 @@
+<map id="showPortInterval" name="showPortInterval">
+<area shape="rect" id="node1" title="Show port or interval on the lcd." alt="" coords="5,81,121,108"/>
+<area shape="rect" id="node2" href="$lcd__lib_8c.html#a9f97eb7178ac1118c4d7a61a77d928d3" title=" " alt="" coords="169,5,287,32"/>
+<area shape="rect" id="node5" href="$lcd__lib_8c.html#a564c23f4c703e87efbd41cf3f83c665e" title=" " alt="" coords="335,56,420,83"/>
+<area shape="rect" id="node6" href="$lcd__lib_8c.html#a8459837500bc2e2e95230c225db35619" title=" " alt="" coords="342,107,413,133"/>
+<area shape="rect" id="node7" href="$lcd__lib_8c.html#a187ae34cb0a53be61e05c088a8687d3d" title=" " alt="" coords="189,157,267,184"/>
+<area shape="rect" id="node3" href="$lcd__lib_8c.html#aefa5c64ec00c0998678eb30924515da7" title=" " alt="" coords="468,56,541,83"/>
+<area shape="rect" id="node4" href="$lcd__lib_8c.html#aca4a9d0155c7c7ec0c5ce4c2f5347847" title=" " alt="" coords="589,56,673,83"/>
+</map>

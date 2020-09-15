@@ -1,0 +1,6 @@
+<map id="UART_puthex32" name="UART_puthex32">
+<area shape="rect" id="node1" title="Send 32&#45;bit hex value." alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node2" href="$uart_8c.html#abfd8db6229faa23505c5b047b62fe88e" title="Send 16&#45;bit hex value." alt="" coords="169,5,285,32"/>
+<area shape="rect" id="node3" href="$uart_8c.html#a3ed3fbcc2387c21eef8cb2aabede9b54" title="Send 8&#45;bit hex value." alt="" coords="333,5,443,32"/>
+<area shape="rect" id="node4" href="$uart_8c.html#a003d2aae179c4848f5dbde3164e1c005" title="Send ASCII character." alt="" coords="491,5,579,32"/>
+</map>

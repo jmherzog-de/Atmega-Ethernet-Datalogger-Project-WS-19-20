@@ -1,0 +1,8 @@
+<map id="delayPulseSteps" name="delayPulseSteps">
+<area shape="rect" id="node1" title="Free configurable delay function in 10ms steps." alt="" coords="275,81,395,108"/>
+<area shape="rect" id="node2" href="$message_view_8h.html#ae44e6ef07d32f99dd361b941573f1cba" title="Display user defined message." alt="" coords="114,5,217,32"/>
+<area shape="rect" id="node4" href="$manconfig_view_8h.html#a47f5840d06328f83a364d0c1bc2a4527" title="Input interval." alt="" coords="104,56,227,83"/>
+<area shape="rect" id="node5" href="$manconfig_view_8h.html#a5c91f2b057837f994fbcbbdb2e4fbfe3" title="Input port." alt="" coords="112,107,219,133"/>
+<area shape="rect" id="node6" href="$showconfig_view_8h.html#ac176d5d6945074a7d60381125f2e8eb9" title="Show configuration parameters." alt="" coords="108,157,223,184"/>
+<area shape="rect" id="node3" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="5,81,56,108"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ip_config.h" name="ip_config.h">
+<area shape="rect" id="node1" title=" " alt="" coords="227,5,311,32"/>
+<area shape="rect" id="node2" href="$dhcp__client_8c.html" title=" " alt="" coords="5,155,104,181"/>
+<area shape="rect" id="node3" href="$dnslkup_8c.html" title=" " alt="" coords="150,155,229,181"/>
+<area shape="rect" id="node4" href="$ip__arp__udp__tcp_8c.html" title=" " alt="" coords="435,80,557,107"/>
+<area shape="rect" id="node5" href="$ip__arp__udp__tcp_8h.html" title=" " alt="" coords="51,80,173,107"/>
+<area shape="rect" id="node7" href="$websrv__help__functions_8c.html" title=" " alt="" coords="581,80,744,107"/>
+<area shape="rect" id="node8" href="$websrv__help__functions_8h.html" title=" " alt="" coords="248,80,411,107"/>
+<area shape="rect" id="node6" href="$ethernet_8c.html" title="ENC28J60 Ethernet library." alt="" coords="271,155,351,181"/>
+</map>

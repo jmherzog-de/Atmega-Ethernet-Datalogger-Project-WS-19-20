@@ -1,0 +1,7 @@
+<map id="SDReadBlock" name="SDReadBlock">
+<area shape="rect" id="node1" title="Read Single Block (CMD17)" alt="" coords="459,31,561,57"/>
+<area shape="rect" id="node2" href="$fat32_8h.html#a1f4251fa9ffd0d22524fb6623779ea62" title="Read SDcard boot sector." alt="" coords="279,5,411,32"/>
+<area shape="rect" id="node5" href="$fat32_8h.html#ae50a6c570ada0b264232cea240163346" title="Read file." alt="" coords="311,56,379,83"/>
+<area shape="rect" id="node3" href="$autoconfig_routine_8h.html#a49a747a4c6c741cb62d404d6a54e921b" title="Automatic configuration routine." alt="" coords="104,31,231,57"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="5,31,56,57"/>
+</map>

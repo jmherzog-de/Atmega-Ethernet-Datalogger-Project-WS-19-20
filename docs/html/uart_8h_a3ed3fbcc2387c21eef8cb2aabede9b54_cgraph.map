@@ -1,0 +1,4 @@
+<map id="UART_puthex8" name="UART_puthex8">
+<area shape="rect" id="node1" title="Send 8&#45;bit hex value." alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node2" href="$uart_8c.html#a003d2aae179c4848f5dbde3164e1c005" title="Send ASCII character." alt="" coords="163,5,251,32"/>
+</map>

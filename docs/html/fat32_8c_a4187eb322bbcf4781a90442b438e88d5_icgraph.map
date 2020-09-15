@@ -1,0 +1,6 @@
+<map id="getFirstSector" name="getFirstSector">
+<area shape="rect" id="node1" title="Calculate sector of the cluster number." alt="" coords="395,5,499,32"/>
+<area shape="rect" id="node2" href="$fat32_8h.html#ae50a6c570ada0b264232cea240163346" title="Read file." alt="" coords="279,5,347,32"/>
+<area shape="rect" id="node3" href="$autoconfig_routine_8h.html#a49a747a4c6c741cb62d404d6a54e921b" title="Automatic configuration routine." alt="" coords="104,5,231,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="5,5,56,32"/>
+</map>

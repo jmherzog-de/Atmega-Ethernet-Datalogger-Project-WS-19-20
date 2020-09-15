@@ -1,0 +1,8 @@
+<map id="spi.h" name="spi.h">
+<area shape="rect" id="node1" title=" " alt="" coords="164,5,215,32"/>
+<area shape="rect" id="node2" href="$sdcard_8c.html" title="Access to SDcard." alt="" coords="5,155,77,181"/>
+<area shape="rect" id="node3" href="$sdcard__debug_8h.html" title=" " alt="" coords="79,80,193,107"/>
+<area shape="rect" id="node5" href="$spi_8c.html" title="SPI library." alt="" coords="217,80,268,107"/>
+<area shape="rect" id="node6" href="$main_8c.html" title="Entry point and state machine implementation." alt="" coords="292,80,353,107"/>
+<area shape="rect" id="node4" href="$sdcard__debug_8c.html" title="Debug functions for sdcard." alt="" coords="101,155,216,181"/>
+</map>

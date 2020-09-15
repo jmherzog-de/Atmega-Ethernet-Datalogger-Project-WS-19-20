@@ -1,0 +1,6 @@
+<map id="SDGoIdleState" name="SDGoIdleState">
+<area shape="rect" id="node1" title="Set SDcard to idle state." alt="" coords="5,56,113,83"/>
+<area shape="rect" id="node2" href="$sdcard_8c.html#aa4fe00f5b5970292cf53a4a6c9b32310" title="Send command to SDcard." alt="" coords="161,5,260,32"/>
+<area shape="rect" id="node3" href="$spi_8c.html#a2f6dd9706527668a1002229193580372" title="Send/receive messages." alt="" coords="308,56,427,83"/>
+<area shape="rect" id="node4" href="$sdcard_8c.html#a1fa518d1b1d7b4052e5b0018d1cc2c14" title="Read R1 message." alt="" coords="167,107,254,133"/>
+</map>

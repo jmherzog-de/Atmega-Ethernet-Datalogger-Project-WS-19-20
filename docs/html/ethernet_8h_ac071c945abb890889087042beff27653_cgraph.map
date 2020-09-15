@@ -1,0 +1,4 @@
+<map id="Ethernet_InitDHCP" name="Ethernet_InitDHCP">
+<area shape="rect" id="node1" title="DHCP initialization." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node2" href="$enc28j60_8c.html#a9de5291941ee905274f79bf946dce522" title=" " alt="" coords="184,5,275,32"/>
+</map>

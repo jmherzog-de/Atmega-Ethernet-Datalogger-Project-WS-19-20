@@ -1,0 +1,14 @@
+<map id="setupIntervalView" name="setupIntervalView">
+<area shape="rect" id="node1" title="Input interval." alt="" coords="5,107,128,133"/>
+<area shape="rect" id="node2" href="$delay_8c.html#aef5e9f964771b593f34c210dc3571b39" title="Free configurable delay function in 10ms steps." alt="" coords="187,5,307,32"/>
+<area shape="rect" id="node3" href="$lcd__lib_8c.html#a9f97eb7178ac1118c4d7a61a77d928d3" title=" " alt="" coords="189,56,306,83"/>
+<area shape="rect" id="node6" href="$lcd__lib_8c.html#a564c23f4c703e87efbd41cf3f83c665e" title=" " alt="" coords="407,107,492,133"/>
+<area shape="rect" id="node7" href="$lcd__lib_8c.html#a187ae34cb0a53be61e05c088a8687d3d" title=" " alt="" coords="208,157,287,184"/>
+<area shape="rect" id="node9" href="$manconfig_view_8c.html#aeb9d8b807f73fd3252bb32b6a9ed8d80" title="Port/interval input." alt="" coords="176,208,319,235"/>
+<area shape="rect" id="node4" href="$lcd__lib_8c.html#aefa5c64ec00c0998678eb30924515da7" title=" " alt="" coords="580,107,653,133"/>
+<area shape="rect" id="node5" href="$lcd__lib_8c.html#aca4a9d0155c7c7ec0c5ce4c2f5347847" title=" " alt="" coords="701,107,785,133"/>
+<area shape="rect" id="node8" href="$lcd__lib_8c.html#a8459837500bc2e2e95230c225db35619" title=" " alt="" coords="414,157,485,184"/>
+<area shape="rect" id="node10" href="$gpio_8c.html#a6c3f11c55d6b3ceb8a85aed9aed572a5" title="Set GPIO hardware pin to output." alt="" coords="367,208,532,235"/>
+<area shape="rect" id="node11" href="$gpio_8c.html#a64552008bc7f3318dbd3b415e82464ff" title="Read button state." alt="" coords="373,259,525,285"/>
+<area shape="rect" id="node12" href="$gpio_8c.html#ae800deb8c2a5b302b19f0f24150de1db" title="Set GPIO hardware pin to input." alt="" coords="374,309,525,336"/>
+</map>

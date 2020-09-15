@@ -1,0 +1,16 @@
+<map id="enc28j60ReadOp" name="enc28j60ReadOp">
+<area shape="rect" id="node1" title=" " alt="" coords="676,132,797,159"/>
+<area shape="rect" id="node2" href="$enc28j60_8h.html#aed668455f7269eec646050b897827d86" title=" " alt="" coords="315,5,461,32"/>
+<area shape="rect" id="node3" href="$enc28j60_8h.html#ac6c9cbfa6cacb1949692f1ea82d15576" title=" " alt="" coords="524,157,628,184"/>
+<area shape="rect" id="node4" href="$enc28j60_8h.html#a113e02b2ae9eac34d20b3758489755b8" title=" " alt="" coords="300,56,476,83"/>
+<area shape="rect" id="node5" href="$enc28j60_8h.html#a9dcfcf51613ee534b53709f9d2b68dcf" title=" " alt="" coords="301,107,475,133"/>
+<area shape="rect" id="node6" href="$enc28j60_8h.html#a6cd9c9c1cb8dafbe0283fa85f2b839b3" title=" " alt="" coords="334,157,442,184"/>
+<area shape="rect" id="node7" href="$enc28j60_8h.html#afdb3759f39d4cad14ccdfe7d4054d81e" title=" " alt="" coords="323,208,453,235"/>
+<area shape="rect" id="node8" href="$enc28j60_8h.html#a8dcece6d3a763c4435845e89e927e51a" title=" " alt="" coords="308,259,468,285"/>
+<area shape="rect" id="node12" href="$enc28j60_8c.html#aa00c8c0c911a72f29822062be4195752" title=" " alt="" coords="320,309,456,336"/>
+<area shape="rect" id="node14" href="$enc28j60_8h.html#a2ad5c16d7e1dca38e098224d1f8e5ce8" title=" " alt="" coords="324,360,452,387"/>
+<area shape="rect" id="node9" href="$ethernet_8h.html#af0f2d7f10673c5847b210d58c290ec1c" title="DNS lookup function." alt="" coords="105,208,251,235"/>
+<area shape="rect" id="node11" href="$ethernet_8h.html#ab5bef07e4630d21d78926695bee51621" title="Send GET request." alt="" coords="104,259,252,285"/>
+<area shape="rect" id="node10" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop." alt="" coords="5,233,56,260"/>
+<area shape="rect" id="node13" href="$enc28j60_8h.html#a6c8324ea13d91209db6cb5298e1b81bb" title=" " alt="" coords="124,309,232,336"/>
+</map>
