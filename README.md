@@ -1,6 +1,6 @@
 # Ethernet Datalogger
 
-Software design of a microcontroller based datalogger for analog measurements and data transmission to web services like thingspeak via Ethernet.
+Software design of a microcontroller based data logger for analog measurements and data transmission to web services like thingspeak via Ethernet.
 
 # The idea
 
