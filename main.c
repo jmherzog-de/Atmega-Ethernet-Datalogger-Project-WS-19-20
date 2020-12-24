@@ -388,3 +388,25 @@ int main(void)
 	return 0;
 }
 
+// pulse variable to calculate pulse delay in interrupt function
+uint8_t pulse_counter = 0;
+
+/**
+*
+* @brief Interrupt function for TIMER0
+*
+* This interrupt function gets called every 10 ms while Timer0 overflows.
+* At this interrupt function, pulses for 300 ms and 1 s where calculated.
+*
+*/
+ISR(TIMER0_COMPA_vect)
+{		
+	if(pulse_counter == 50)
+	{
+		pulse500ms = true;
+		pulse_counter = 0;
+	}
+	else{pulse_counter++;}
+	
+	pulse10ms = true;
+}
